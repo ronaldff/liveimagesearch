@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/liveimagesearch/static/css/main.49395807.chunk.css",
+    "main.js": "/liveimagesearch/static/js/main.7792f340.chunk.js",
+    "main.js.map": "/liveimagesearch/static/js/main.7792f340.chunk.js.map",
+    "runtime-main.js": "/liveimagesearch/static/js/runtime-main.3ea88e42.js",
+    "runtime-main.js.map": "/liveimagesearch/static/js/runtime-main.3ea88e42.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/liveimagesearch/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.5b8748a3.chunk.js": "/liveimagesearch/static/js/2.5b8748a3.chunk.js",
+    "static/js/2.5b8748a3.chunk.js.map": "/liveimagesearch/static/js/2.5b8748a3.chunk.js.map",
+    "index.html": "/liveimagesearch/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/liveimagesearch/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.49395807.chunk.css.map": "/liveimagesearch/static/css/main.49395807.chunk.css.map",
+    "static/js/2.5b8748a3.chunk.js.LICENSE.txt": "/liveimagesearch/static/js/2.5b8748a3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ea88e42.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.5b8748a3.chunk.js",
+    "static/css/main.49395807.chunk.css",
+    "static/js/main.7792f340.chunk.js"
+  ]
+}
